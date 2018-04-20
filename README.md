@@ -1,6 +1,6 @@
 # LUS_project1
 
-###Requirements:<h3>
+###Requirements:
 
 `python3`  
 `openfst 1.6.5`  
