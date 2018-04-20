@@ -1,17 +1,17 @@
 # LUS_project1
 
-<h3>Requirements:<hr>
+<h3>Requirements:<h3>
 
-`python3`
-`openfst 1.6.5`
-`opengrm 1.3.3`
+`python3`  
+`openfst 1.6.5`  
+`opengrm 1.3.3`  
 
-python modules:
-	- `math`
-	- `os`
-	- `sys`
-	- `pickle`
-	- `subprocess`
+python modules:  
+	- `math` 
+	- `os`  
+	- `sys`  
+	- `pickle`  
+	- `subprocess`  
 
 tested on Ubuntu 17.10
 
