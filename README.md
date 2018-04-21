@@ -1,4 +1,4 @@
-# LUS_project1
+# Language Understanding Systems - First Assignment
 
 ###Requirements:
 
