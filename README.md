@@ -15,7 +15,7 @@
 	
 ###Running the code
 
-The file named `script_complete.py` runs sequentially all the attempts made, with the different parameters chosen. The file named `script.py`, intead, only runs the procedure that gave the best result. Provided that the folder system respects the delivered one, only the "script.py" file (or "script_complete.py" if interested in all the results) needs to be run with the following command:
+The file named `script_complete.py` runs sequentially all the attempts made, with the different parameters chosen. The file named `script.py`, instead, only runs the procedure that gave the best result. Provided that the folder system respects the delivered one, only the "script.py" file (or "script_complete.py" if interested in all the results) needs to be run with the following command:
 
 `python3 script.py`
 
