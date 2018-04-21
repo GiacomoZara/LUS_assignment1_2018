@@ -7,11 +7,11 @@
 `opengrm 1.3.3`  
 
 ###python modules:  
-	- `math` 
-	- `os`  
-	- `sys`  
-	- `pickle`  
-	- `subprocess`  
+	- math  
+	- os  
+	- sys  
+	- pickle  
+	- subprocess  
 	
 ###Running the code
 
