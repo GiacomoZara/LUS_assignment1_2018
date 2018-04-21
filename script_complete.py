@@ -27,7 +27,7 @@ os.system("ngrammake --method=" + str(method) + " encoded_concepts_sequences.cnt
 subprocess.call("python3 Auxiliary_scripts/generate_output.py LUS.P1/data/P1_data/data/NLSPARQL.test.data", shell = True)
 os.system("./LUS.P1/data/P1_data/scripts/conlleval.pl < final_output.txt")
 
-subprocess.call(["python3", "improvement_o_removal.py"])
+subprocess.call(["python3", "Auxiliary_scripts/improvement_o_removal.py"])
 
 print("\n")
 
