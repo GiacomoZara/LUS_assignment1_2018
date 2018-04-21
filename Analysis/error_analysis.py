@@ -1,7 +1,7 @@
 import os
 import operator
 
-os.system("[ -e 09_all_together ] && rm errors.txt")
+os.system("[ -e lus_project1 ] && rm errors.txt")
 
 result_file = open('final_output.txt', 'r')
 

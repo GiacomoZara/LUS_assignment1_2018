@@ -1,7 +1,7 @@
 import random
 import os
 
-os.system("[ -e 09_all_together ] && rm baseline_random.txt baseline_majority.txt baseline_chance.txt")
+os.system("[ -e lus_project1 ] && rm baseline_random.txt baseline_majority.txt baseline_chance.txt")
 
 training_file = open('LUS.P1/data/P1_data/data/NLSPARQL.train.data', 'r')
 

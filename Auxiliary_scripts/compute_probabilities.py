@@ -6,7 +6,7 @@ import sys
 train_filename = str(sys.argv[1])
 
 # removing files
-os.system("[ -e 09_all_together ] && rm probabilities_wc.txt distinct_concepts.txt")
+os.system("[ -e lus_project1 ] && rm probabilities_wc.txt distinct_concepts.txt")
 
 # lists for all words and concepts
 words = []

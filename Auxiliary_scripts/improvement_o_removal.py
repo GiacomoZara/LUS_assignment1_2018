@@ -1,7 +1,7 @@
 import os
 
 # removing files
-os.system("[ -e 09_all_together ] && rm LUS.P1/data/P1_data/data/train_o_removed.data")
+os.system("[ -e lus_project1 ] && rm LUS.P1/data/P1_data/data/train_o_removed.data")
 
 # writing new training file
 original_training_file = open('LUS.P1/data/P1_data/data/NLSPARQL.train.data' , 'r')

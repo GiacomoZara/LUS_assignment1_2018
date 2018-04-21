@@ -1,7 +1,7 @@
 import os
 
 # removing files
-os.system("[ -e 09_all_together ] && rm transducer_global.txt transducer_unk.txt")
+os.system("[ -e lus_project1 ] && rm transducer_global.txt transducer_unk.txt")
 
 # generating global transducer
 input_file_probs = open('probabilities_wc.txt', 'r')

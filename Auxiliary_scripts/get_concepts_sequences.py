@@ -2,7 +2,7 @@ import os
 import sys
 
 # removing files
-os.system("[ -e 09_all_together ] && rm concepts_sequences.txt")
+os.system("[ -e lus_project1 ] && rm concepts_sequences.txt")
 
 # training file
 train_filename = str(sys.argv[1])
