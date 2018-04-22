@@ -1,4 +1,6 @@
-# Language Understanding Systems - First Assignment
+# Language Understanding Systems - 2018 - First Assignment
+
+## Giacomo Zara
 
 ### Requirements:
 
